@@ -1,0 +1,42 @@
+'Aditi Chawla’
+{"uid":"1066313651","predictions":[{"trait":"BIG5_Extraversion","value":0.3484660066338077},{"trait":"BIG5_Openness","value":0.46419052066613137},{"trait":"BIG5_Agreeableness","value":0.41745561758734073},{"trait":"BIG5_Neuroticism","value":0.36870605697014947},{"trait":"BIG5_Conscientiousness","value":0.46425841467045137}]}
+'Akshat Bhattacharjee'
+{"uid":"1051878727","predictions":[{"trait":"BIG5_Extraversion","value":0.26261785631487233},{"trait":"BIG5_Openness","value":0.5388472194115227},{"trait":"BIG5_Agreeableness","value":0.3386492786703991},{"trait":"BIG5_Neuroticism","value":0.3378861863592725},{"trait":"BIG5_Conscientiousness","value":0.35433433841630024}]}
+'Akshay Karwal'
+{"uid":"100001119955479","predictions":[{"trait":"BIG5_Extraversion","value":0.2934553829820696},{"trait":"BIG5_Openness","value":0.4884266760704707},{"trait":"BIG5_Agreeableness","value":0.39639792524022577},{"trait":"BIG5_Neuroticism","value":0.5010603585769157},{"trait":"BIG5_Conscientiousness","value":0.44566731569238593}]}
+'Akshay Khunteta'
+{"uid":"779478112","predictions":[{"trait":"BIG5_Extraversion","value":0.3573478578660001},{"trait":"BIG5_Openness","value":0.4418479761316989},{"trait":"BIG5_Agreeableness","value":0.4219418283328211},{"trait":"BIG5_Neuroticism","value":0.37505799948180496},{"trait":"BIG5_Conscientiousness","value":0.48282524600351023}]}
+'Aratrika Mallick'
+{"uid":"100000024747768","predictions":[{"trait":"BIG5_Extraversion","value":0.3672800508243911},{"trait":"BIG5_Openness","value":0.4604508117265232},{"trait":"BIG5_Agreeableness","value":0.4059255754025616},{"trait":"BIG5_Neuroticism","value":0.4056909809356094},{"trait":"BIG5_Conscientiousness","value":0.4424880310602924}]}
+'Bishwa Chakraborty'
+{"uid":"543025313","predictions":[{"trait":"BIG5_Extraversion","value":0.3564487546287352},{"trait":"BIG5_Openness","value":0.607445591870009},{"trait":"BIG5_Agreeableness","value":0.5370940925220702},{"trait":"BIG5_Neuroticism","value":0.3351230287471584},{"trait":"BIG5_Conscientiousness","value":0.47636578669742324}]}
+'Deepak S Rautela'
+{"uid":"100000353234609","predictions":[{"trait":"BIG5_Extraversion","value":0.2762490719190647},{"trait":"BIG5_Openness","value":0.395726407870053},{"trait":"BIG5_Agreeableness","value":0.39546377725933834},{"trait":"BIG5_Neuroticism","value":0.46578274925024105},{"trait":"BIG5_Conscientiousness","value":0.6141668890128363}]}
+'Ishaan Arora'
+{"uid":"100000853637321","predictions":[{"trait":"BIG5_Extraversion","value":0.29649059189155763},{"trait":"BIG5_Openness","value":0.507933160076967},{"trait":"BIG5_Agreeableness","value":0.43430233129521595},{"trait":"BIG5_Neuroticism","value":0.4326886365527045},{"trait":"BIG5_Conscientiousness","value":0.37634794801838184}]}
+'Latisha Khattar'
+{"uid":"100002624318551","predictions":[{"trait":"BIG5_Extraversion","value":0.4102911373845746},{"trait":"BIG5_Openness","value":0.5631276071089093},{"trait":"BIG5_Agreeableness","value":0.38659116710846053},{"trait":"BIG5_Neuroticism","value":0.4318389295158583},{"trait":"BIG5_Conscientiousness","value":0.4400389294602689}]}
+'Madhulika Mukherjee'
+{"uid":"525768181","predictions":[{"trait":"BIG5_Extraversion","value":0.37224123536361964},{"trait":"BIG5_Openness","value":0.4546828466760664},{"trait":"BIG5_Agreeableness","value":0.4142228830280099},{"trait":"BIG5_Neuroticism","value":0.4156448925349753},{"trait":"BIG5_Conscientiousness","value":0.4521495070109673}]}
+'Mayank Arora'
+{"uid":"594701626","predictions":[{"trait":"BIG5_Extraversion","value":0.46652201527529086},{"trait":"BIG5_Openness","value":0.45614531694673155},{"trait":"BIG5_Agreeableness","value":0.565833788848426},{"trait":"BIG5_Neuroticism","value":0.35084289419799886},{"trait":"BIG5_Conscientiousness","value":0.5336049983695539}]}
+'Nilaksh Das'
+{"uid":"1135086359","predictions":[{"trait":"BIG5_Extraversion","value":0.3500137933661738},{"trait":"BIG5_Openness","value":0.4786433781837537},{"trait":"BIG5_Agreeableness","value":0.39848371302738916},{"trait":"BIG5_Neuroticism","value":0.3942102247160739},{"trait":"BIG5_Conscientiousness","value":0.43886816830891817}]}
+'Nishant Pai'
+{"uid":"578510328","predictions":[{"trait":"BIG5_Extraversion","value":0.3675507038567577},{"trait":"BIG5_Openness","value":0.45165001200038946},{"trait":"BIG5_Agreeableness","value":0.42886560724607997},{"trait":"BIG5_Neuroticism","value":0.4008199536846399},{"trait":"BIG5_Conscientiousness","value":0.4536720526785559}]}
+'Pallavi Monica Ekka'
+{"uid":"100001000813820","predictions":[{"trait":"BIG5_Extraversion","value":0.3237535132859984},{"trait":"BIG5_Openness","value":0.5404265991192722},{"trait":"BIG5_Agreeableness","value":0.4221784324328563},{"trait":"BIG5_Neuroticism","value":0.32537985423942467},{"trait":"BIG5_Conscientiousness","value":0.41049528046599976}]}
+'Prashant Sinha'
+{"uid":"100000509019671","predictions":[{"trait":"BIG5_Extraversion","value":0.3139153797104287},{"trait":"BIG5_Openness","value":0.4049900984021356},{"trait":"BIG5_Agreeableness","value":0.3009831219179454},{"trait":"BIG5_Neuroticism","value":0.35255031447469937},{"trait":"BIG5_Conscientiousness","value":0.43478844417905255}]}
+'Raghavendra Tripathi'
+{"uid":"100002203625114","predictions":[{"trait":"BIG5_Extraversion","value":0.2980278341482251},{"trait":"BIG5_Openness","value":0.5162442591563288},{"trait":"BIG5_Agreeableness","value":0.47405088354001207},{"trait":"BIG5_Neuroticism","value":0.4280486250425421},{"trait":"BIG5_Conscientiousness","value":0.4542234093921317}]}
+'Rahul Yadav Manuwas'
+{"uid":"100002259358704","predictions":[{"trait":"BIG5_Extraversion","value":0.3370164122308689},{"trait":"BIG5_Openness","value":0.49365747026369067},{"trait":"BIG5_Agreeableness","value":0.41567005901088894},{"trait":"BIG5_Neuroticism","value":0.3956534929235944},{"trait":"BIG5_Conscientiousness","value":0.3627931801476588}]}
+'Santoshi M. Nadar'
+{"uid":"1788464819","predictions":[{"trait":"BIG5_Extraversion","value":0.3025726237948999},{"trait":"BIG5_Openness","value":0.44303301656987837},{"trait":"BIG5_Agreeableness","value":0.4680028318172907},{"trait":"BIG5_Neuroticism","value":0.3877796428700519},{"trait":"BIG5_Conscientiousness","value":0.39158874842391617}]}
+'Shivek Khurana'
+{"uid":"100003258956170","predictions":[{"trait":"BIG5_Extraversion","value":0.36373935710008165},{"trait":"BIG5_Openness","value":0.46185526324888476},{"trait":"BIG5_Agreeableness","value":0.4260461370615639},{"trait":"BIG5_Neuroticism","value":0.38853870421723335},{"trait":"BIG5_Conscientiousness","value":0.4540896716418799}]}
+'Shubham Goel'
+{"uid":"1542195715","predictions":[{"trait":"BIG5_Extraversion","value":0.3661705597922985},{"trait":"BIG5_Openness","value":0.4528406690966711},{"trait":"BIG5_Agreeableness","value":0.43008500334599253},{"trait":"BIG5_Neuroticism","value":0.4008219743820159},{"trait":"BIG5_Conscientiousness","value":0.45196485154913857}]}
+'Tushar Mishra'
+{"uid":"704968934","predictions":[{"trait":"BIG5_Extraversion","value":0.34120983183530657},{"trait":"BIG5_Openness","value":0.4504515814176983},{"trait":"BIG5_Agreeableness","value":0.40401967080963114},{"trait":"BIG5_Neuroticism","value":0.4054087220949075},{"trait":"BIG5_Conscientiousness","value":0.44849575459783775}]}
